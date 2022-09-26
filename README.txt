@@ -80,8 +80,7 @@ Leave a comment on what you did or more importantly why, if it is not obvious (o
 
 
 
-##### If you want to download and analyse additional data: #####
-(using '0. download data to file (optional)')
+##### How to download and analyse additional data (optional): #####
 
 1. Create a Copernicus account at 
 https://cds.climate.copernicus.eu/user/register?destination=%2F%23!%2Fhome
@@ -110,6 +109,8 @@ verify: 0
 
 pip install cdsapi
 
-4. now the cdsapi client can be used, i.e. the line
+4. Now the cdsapi client can be used, i.e. the line
 import cdsapi
 will work.
+
+5. Use the notebook '0. download data to file (optional)'
