@@ -61,7 +61,7 @@ You can do this for multiple files.
 
 2. Commit the staged files by typing 
 
-git commit -m comment
+git commit -m "comment"
 
 (replace comment by a short (i.e. 50 charakters or less) description of what you did)
 Git commit is for all the files you staged via git add, therefore also your comment is the same
