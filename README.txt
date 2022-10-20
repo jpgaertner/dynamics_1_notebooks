@@ -1,3 +1,5 @@
+If you have any questions about anything: jan.gaertner@awi.de
+
 ##### How to install python and jupyter notebook: #####
 
 1. Download and install Miniconda from
